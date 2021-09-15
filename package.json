@@ -18,7 +18,7 @@
     "mem": "^6.0.1",
     "mime": "^2.4.4",
     "mixin-deep": "^2.0.1",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "vue": "^2.5.17",
     "vue-aplayer": "^1.6.1",
     "vue-router": "^3.0.1",
